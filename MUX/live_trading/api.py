@@ -1,0 +1,6 @@
+# binance_api = "UvsLH9YOdEZJnk6yEyceDhMQIHAIhV1C1BEMI37GfXGU2y81MD55ic4E9D0iaUns"
+# binance_secret = "RzgGyPV59iejem1y10PghWrMtsfBIfNHqaRAv2oh2VxxjBxPSsqfJZM0CtM3Uspj"
+
+
+binance_api = "fu6nvx3VRaQqJKdIBHS9RKvRodQrzJA9i2F9wWzW7RxIirlKYvC2LPr5kfLYXgUv"
+binance_secret = "myZtl8EDA9btCX4jdl4YBJYvL7ahBXIrGIdcUgih5Wdk4kjwvpCWS6TcU1WvTPDd"
