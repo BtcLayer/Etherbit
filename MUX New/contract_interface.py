@@ -6,7 +6,7 @@ class ContractInterface:
         self.web3 = Web3(Web3.HTTPProvider(rpc_url))
 
         # Check if connected to Ethereum node
-        if not self.web3.isConnected():
+        if not self.web3.is_connected():
             raise Exception("Failed to connect to Ethereum node.")
 
         # Set up the contract

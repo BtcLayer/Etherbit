@@ -1,10 +1,11 @@
 from contract_interface import ContractInterface
 from position_tracker import PositionTracker
+from variables import ABI
 
 # Constants (should be set to actual values)
 RPC_URL = "YOUR_ETHEREUM_NODE_RPC_URL"
 CONTRACT_ADDRESS = "YOUR_SMART_CONTRACT_ADDRESS"
-CONTRACT_ABI = [...]  # The ABI of your smart contract
+CONTRACT_ABI = ABI
 
 def main():
     # Initialize contract interface
