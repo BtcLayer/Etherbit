@@ -3,8 +3,8 @@ from position_tracker import PositionTracker
 from variables import ABI
 
 # Constants (should be set to actual values)
-RPC_URL = "YOUR_ETHEREUM_NODE_RPC_URL"
-CONTRACT_ADDRESS = "YOUR_SMART_CONTRACT_ADDRESS"
+RPC_URL = "https://arb-mainnet.g.alchemy.com/v2/YvS_XN4GJEOEdPOUznbqRCVZ_rD7HvRr"
+CONTRACT_ADDRESS = "0x245BA1e19e7a15dd903B6b9B2705d4BF308F481c"
 CONTRACT_ABI = ABI
 
 def main():
